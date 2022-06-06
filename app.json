@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rn-mood-calendar",
+    "slug": "rn-mood-calendar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
